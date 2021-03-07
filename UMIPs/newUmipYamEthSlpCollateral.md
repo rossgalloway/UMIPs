@@ -8,7 +8,7 @@
 | Created    | February 14, 2021                                                                       |
 
 ## Summary (2-5 sentences)
-This UMIP will add ETH/YAM Sushiswap Liquidity Pool tokens to the supported collateral currencies to the AddressWhitelist contract, allowing UMA users to mint synthetics using ETH/YAM SLP tokens as the collateral currency. The proposed final fee is xxx ETH/YAM SLP tokens per request.
+This UMIP will add ETH/YAM Sushiswap Liquidity Pool tokens and ETH/YAM Uniswap Liquidity Pool tokens to the supported collateral currencies to the AddressWhitelist contract, allowing UMA users to mint synthetics using ETH/YAM SLP tokens as the collateral currency. The proposed final fee is xxx ETH/YAM SLP tokens per request.
 
 ## Motivation
 Adding ETH/YAM SLP tokens as a collateral currency to UMA will extend the use of the YAM governance token as a way to create new synthetic assets and will allow it to be used within products that are built upon UMA. ETH/YAM SLP tokens should be less volatile than YAM tokens on their own as they are backed 50/50 with ETH and YAM.  This will also free up additional liquidity as YAM holders will not have to choose between LPing their YAM tokens to earning YAM rewards and providing collateral to mint synthetics. YAM/ETH SLP tokens could be used as a collateral to mint perpetual stablecoins and other future synthetics. This adds additional utility to the YAM token and serves as a test case for adding additional governance and community LIquidity provider tokens to the UMA whitelist.
